@@ -1,0 +1,364 @@
+#h1style
+{
+color: black;
+ font-size: 30px;
+text-align: center;
+margin:5%;
+}
+
+
+.footer1
+{
+  
+   width: 100%;
+   background-color:#6d6673 ;
+   height: 5%;
+   position: fixed;;
+   bottom: 0;
+
+  
+}
+
+
+
+
+
+@media(min-width: 992px)
+
+{
+
+  
+#p1style
+	{
+	width: 31%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  float:left;
+  
+  margin:1%;
+  position: relative;
+  margin-top:3%;
+  padding: 3%;
+  box-sizing: border-box;
+  
+  
+  
+}
+#p2style
+{
+  width: 31%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  float:left;
+  
+  margin:1%;
+  position: relative;
+  margin-top:3%;
+   padding: 3%;
+   box-sizing: border-box;
+  
+  
+}
+#p3style
+{
+
+  width: 31%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  float:left;
+  
+  margin:1%;
+  position: relative;
+  margin-top:3%;
+   padding: 3%;
+   box-sizing: border-box;
+
+  
+  
+}
+
+
+
+
+
+.div3style
+{
+  position: absolute;
+  
+  width:30%;
+  height:21%;
+  box-sizing:border-box;
+  margin: 0%;
+
+  
+
+  
+   text-align: center;
+   font-weight: bold;
+   
+
+
+
+  top:0px;
+  right: 0px;
+  
+  
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  font-size: 95%;
+  padding: 2%;
+  
+  
+
+  
+}
+#pchicken
+{
+  background-color: #E8ADAA;
+
+}
+#psushi
+{
+    background-color: #ded757;
+    
+
+  }
+
+ #pbeef
+  {
+     background-color: #bd080b;
+     color: white;
+  }
+
+
+}
+@media(min-width: 768px) and (max-width: 991px)
+{
+
+#p1style
+  {
+  width: 40%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  box-sizing: border-box;
+  padding: 3%;
+  margin:3%;
+  position: relative;
+  
+  float: left;
+  
+  
+}
+#p2style
+{
+  width: 40%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  float: left;
+  box-sizing: border-box;
+  padding: 3%;
+  margin:3%;
+  position: relative;
+  margin-right: 10%;
+  
+  
+}
+#p3style
+{
+
+  width: 86%;
+  height: 40%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  padding: 3%;
+  box-sizing: border-box;
+  float: left;
+  margin:3%;
+
+  position: relative;
+  margin-bottom: 20%;
+  
+}
+
+
+
+
+
+
+
+
+ .div3style
+{
+  position: absolute;
+  
+  width:30%;
+  height:21%;
+  box-sizing:border-box;
+  margin: 0%;
+  
+
+  
+
+  
+   text-align: center;
+   font-weight: bold;
+   
+
+
+
+  top:0px;
+  right: 0px;
+  
+  
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  font-size: 95%;
+  padding: 2%;
+  
+  
+  
+  
+}
+#pchicken
+{
+  background-color: #E8ADAA;
+
+}
+#psushi
+{
+    background-color: #ded757;
+    
+    
+
+  }
+
+   #pbeef
+  {
+     background-color: #bd080b;
+     color: white;
+  }
+
+
+
+ }
+@media(max-width: 767px)
+{
+  
+
+  #p1style
+  {
+  width: 30%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  box-sizing: border-box;
+  padding: 3%;
+  margin:1%;
+  position: relative;
+  margin-top:3%;
+  margin-left: 40%;
+  margin-right: 20%;
+  
+  
+}
+#p2style
+{
+  width: 30%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+  box-sizing: border-box;
+  
+  margin:1%;
+  position: relative;
+  padding: 3%;
+  margin-left: 40%;
+  margin-right: 20%;
+  
+  
+}
+#p3style
+{
+
+  width: 30%;
+  height: 30%;
+  background-color: #6d6673;
+  border: 1px solid black;
+
+  margin:1%;
+  position: relative;
+  margin-bottom: 2%;
+  box-sizing: border-box;
+  padding: 3%;
+  margin-left: 40%;
+  margin-right: 20%;
+  margin-bottom: 20%;
+  
+  
+}
+  
+  
+
+
+
+
+
+.div3style
+{
+  position: absolute;
+  
+  width:30%;
+  height:21%;
+  
+  margin: 0%;
+
+  
+
+  
+
+  
+   text-align: center;
+   font-weight: bold;
+   
+
+
+
+  top:0px;
+  right: 0px;
+  
+  
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  font-size: 95%;
+  padding: 2%;
+  box-sizing: border-box;
+  
+  
+}
+#pchicken
+{
+  background-color: #E8ADAA;
+
+}
+#psushi
+{
+    background-color: #ded757;
+    
+
+  }
+
+  #pbeef
+  {
+     background-color: #bd080b;
+     color: white;
+  }
+ 
+
+
+}
+
